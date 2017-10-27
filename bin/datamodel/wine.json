@@ -9,5 +9,6 @@
     "ProductWine" : "pinot gris",
     "ProductInventory" : "411",
     "ProductYear" : "2014",
-    "ProductPackagingClosing" : "SKRUF"
+    "ProductPackagingClosing" : "SKRUF",
+    "ProductHasBeenSelected" : false
 }
