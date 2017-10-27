@@ -1,0 +1,18 @@
+{
+    "Wines" : {
+        "WineID_01" : "14031"
+    },
+    "Ratings" : {
+        "WineID" : {
+            "RatingID_01" : "0000001"
+        }
+    },
+    "Comments" : {
+        "WineID" : {
+            "CommentID_01" : "0000001"
+        }
+    },
+    "Users" : {
+        "UserID_01"  : "00001"
+    }
+}
